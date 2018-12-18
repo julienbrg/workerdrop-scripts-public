@@ -38,7 +38,16 @@ and click : Query
 
 ## Option C: How to see my worker balances with iExec Account interface ?
 
-Instructions TODO
+To see your balance using the Account interface:
+
+* Go to the [marketplace](https://market.iex.ec/)
+* In Metamask (latest version only), click on 'Expand View'
+* Click on ‘Import wallet’
+* Select the type ‘JSON file’
+* Type your password
+* Click on ‘IMPORT’
+
+Now you can click on ‘Account’ to manage your account.
 
 
 # How to withdraw my rewards ? 
